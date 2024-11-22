@@ -1,0 +1,17 @@
+
+
+.notFoundContainer{
+    margin-top:3rem;
+    padding-bottom:3rem;
+}
+
+.notFoundInnerContainer{
+    width:100%;
+}
+
+.notFoundHeader{
+    font-size:3rem;
+    font-family: "Barlow", sans-serif;
+    text-align:center;
+    color:#fff;
+}
